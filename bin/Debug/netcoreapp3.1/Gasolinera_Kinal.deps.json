@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Gasolinera_Kinal/1.0.0": {
+        "runtime": {
+          "Gasolinera_Kinal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gasolinera_Kinal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

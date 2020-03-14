@@ -1,0 +1,11 @@
+C:\Users\Informatica\Documents\sabado\Gasolinera_Kinal\bin\Debug\netcoreapp3.1\Gasolinera_Kinal.exe
+C:\Users\Informatica\Documents\sabado\Gasolinera_Kinal\bin\Debug\netcoreapp3.1\Gasolinera_Kinal.deps.json
+C:\Users\Informatica\Documents\sabado\Gasolinera_Kinal\bin\Debug\netcoreapp3.1\Gasolinera_Kinal.runtimeconfig.json
+C:\Users\Informatica\Documents\sabado\Gasolinera_Kinal\bin\Debug\netcoreapp3.1\Gasolinera_Kinal.runtimeconfig.dev.json
+C:\Users\Informatica\Documents\sabado\Gasolinera_Kinal\bin\Debug\netcoreapp3.1\Gasolinera_Kinal.dll
+C:\Users\Informatica\Documents\sabado\Gasolinera_Kinal\bin\Debug\netcoreapp3.1\Gasolinera_Kinal.pdb
+C:\Users\Informatica\Documents\sabado\Gasolinera_Kinal\obj\Debug\netcoreapp3.1\Gasolinera_Kinal.csprojAssemblyReference.cache
+C:\Users\Informatica\Documents\sabado\Gasolinera_Kinal\obj\Debug\netcoreapp3.1\Gasolinera_Kinal.AssemblyInfoInputs.cache
+C:\Users\Informatica\Documents\sabado\Gasolinera_Kinal\obj\Debug\netcoreapp3.1\Gasolinera_Kinal.AssemblyInfo.cs
+C:\Users\Informatica\Documents\sabado\Gasolinera_Kinal\obj\Debug\netcoreapp3.1\Gasolinera_Kinal.dll
+C:\Users\Informatica\Documents\sabado\Gasolinera_Kinal\obj\Debug\netcoreapp3.1\Gasolinera_Kinal.pdb
